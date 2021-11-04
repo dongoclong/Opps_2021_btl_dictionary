@@ -1,0 +1,137 @@
+About	khoảng	trạng từ
+Available	sẵn sàng	tính từ
+Activity	hoạt động	danh từ
+Again	lần nữa	trạng từ
+Always	luôn luôn	trạng từ
+Appear		xuất hiện
+After	sau đó	giới từ
+Actor	diễn viên	danh từ
+Angle	thiên thần	danh từ
+Area	khu vực	danh từ
+Burn	cháy	động từ
+Book	cuốn sách	danh từ
+Baby	trẻ mới sinh	danh từ
+Been	thì là	động từ
+Bread	bánh mỳ	danh từ
+Bill	hóa đơn	danh từ
+Blue	màu xanh da trời	danh từ
+Beer	Bia	danh từ
+Bird	con chim	danh từ
+Boat	con thuyền	danh từ
+Back	trở lại	danh từ
+Cook	nấu	động từ
+Construction	xây dựng	danh từ
+Conversation	cuộc thoại	danh từ
+Camp	chỗ cắm trại	danh từ
+Capital	thủ đô	danh từ
+Can	khả năng	động từ
+Caught	sự nắm lấy	động từ
+Cry	khóc	động từ
+Cat	con mèo	danh từ
+Cake	bánh ngọt	danh từ
+Call	gọi	động từ
+Cent	đồng xu	danh từ
+Club	Câu lạc bộ	danh từ
+Core	cốt lõi	danh từ
+Continent	lục địa	danh từ
+Computer	máy tính	danh từ
+Department	phòng ban	danh từ
+Difficulty	khó khăn	danh từ
+Detective	thám tử	danh từ
+District		quận huyện
+Disease	bệnh tật	danh từ
+Dance	sự nhảy múa	danh từ
+Death	cái chết	danh từ
+Describe	mô tả	động từ
+Divide	chia ra	động từ
+Desert	sa mạc	danh từ
+Delete	xóa	động từ
+Doctor	bác sĩ	danh từ
+Daily	hàng ngày	tính từ
+Extensive	sâu rộng	tính từ
+Education	giáo dục	danh từ
+Ear	tai	danh từ
+Egg	trứng	danh từ
+Exercise	bài tập	danh từ
+Explosion	vụ nổ	danh từ
+Elephant	Con voi	danh từ
+Friend	bạn	danh từ
+Friday	thứ 6	danh từ
+Father	bố	danh từ
+Foot	bàn chân	danh từ
+Food	đồ ăn	danh từ
+Future	tương lai	danh từ
+Fix	sửa chữa	động từ
+Fall	rơi 	động từ
+Far	xa	tính từ
+Fear	sự sợ hãi	danh từ
+From	đến từ	giới từ
+Fist	con cá	danh từ
+Good	tốt	tính từ
+Government	chính phủ	danh từ
+Girl	con gái	danh từ
+Gift	món quà	danh từ
+Gold	vàng	danh từ
+Garage	gara oto	danh từ
+Group	nhóm	danh từ
+Gun	súng	danh từ
+Grow	phát triển	động từ
+Hackman	Tai xe taxi	danh từ
+Homework	bài tập về nhà 	danh từ
+Housework	Việc nhà	danh từ
+Intelligent	Thông minh	tính từ
+Inconvenient	bất tiện	tính từ
+Important	quan trọng	tính từ
+Judge	thẩm phán	danh từ
+Job	việc làm	danh từ
+Join	Tham gia	động từ
+Key	Chìa khóa	danh từ
+Keyboard	bàn phím	danh từ
+Kind	Tốt bụng	tính từ
+Laboratory	phòng thí nghiệm	danh từ
+Language	Ngôn ngữ	danh từ
+Lecture	bài học	danh từ
+Monkey	Con khỉ	danh từ
+Manager	quản lý	danh từ
+Material	vật liệu	danh từ
+Necessary	cần thiết	tính từ
+Need	cần	động từ
+Noisy	ồn ào	tính từ
+Objection	sự phản đối	danh từ
+Overflow	sự tràn đầy	danh từ
+Obedient	vâng lời	tính từ
+Physically	thể chất	trạng từ
+Programming	Chương trình	danh từ
+Pyramid	kim tự tháp	danh từ
+Question	câu hỏi	danh từ
+Quantity	số lượng	danh từ
+Quantification	sự định lượng 	danh từ
+Radio	Vô tuyến	danh từ
+Ready	Sẵn sàng	động từ
+Real	Sự thật	tính từ
+Solution	cách giải quyết	danh từ
+Soon	sớm	tính từ
+Something	thứ gì đó	đại từ
+Table	Cái bàn	danh từ
+Tall	Cao	tính từ
+Tower	Toà tháp	danh từ
+University	trường đại học	danh từ
+Umbrella	chiếc dù	danh từ
+Understand	hiểu	tính từ
+Vacation	kỳ nghỉ	danh từ
+Visit	Chuyến thăm	động từ
+Volcano		Núi lửa
+Week	Tuần	danh từ
+Wall	Tường	danh từ
+Well	Tốt	trạng từ
+Xenogamy	Sự lai chéo	danh từ
+Xenophobic	Bài ngoại 	tính từ
+Xanthic	màu vàng nhạt	danh từ
+Year	Năm	danh từ
+Yard	Sân nhà	danh từ
+Yellow	Màu vàng	danh từ
+Zoom	Phòng	danh từ
+Zone	khu vực	danh từ
+Zymometer	đo độ lên men	động từ
+account	tài khoản	danh từ
+is	thì, là, ở	trạng từ

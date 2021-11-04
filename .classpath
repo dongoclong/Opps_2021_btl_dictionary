@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/jmf-2_1_1e-alljava.zip"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/jmf-2_1_1e-alljava/JMF-2.1.1e/lib/mediaplayer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/jmf-2_1_1e-alljava/JMF-2.1.1e/lib/jmf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/jmf-2_1_1e-alljava/JMF-2.1.1e/lib/customizer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/jmf-2_1_1e-alljava/JMF-2.1.1e/lib/multiplayer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/freetts-1.2.1-bin.zip"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/freetts-1.2.1-bin/freetts-1.2.1/lib/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/freetts-1.2.1-bin/freetts-1.2.1/lib/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/freetts-1.2.1-bin/freetts-1.2.1/lib/cmudict04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/freetts-1.2.1-bin/freetts-1.2.1/lib/cmulex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/freetts-1.2.1-bin/freetts-1.2.1/lib/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/freetts-1.2.1-bin/freetts-1.2.1/lib/en_us.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/freetts-1.2.1-bin/freetts-1.2.1/lib/freetts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/freetts-1.2.1-bin/freetts-1.2.1/lib/jsapi.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
